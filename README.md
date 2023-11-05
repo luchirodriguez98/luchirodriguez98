@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, I'm Lucia Rodriguez Cifre</h1>
+<h1 align="center">Hola 👋, Soy Lucia Rodriguez Cifre</h1>
 <h3 align="center">Frontend Developer y Fotografa</h3>
 
 - 🔭 Actualmente trabajando en mi proyecto **Films360 (próximamente disponible..)**
