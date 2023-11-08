@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, Soy Lucia Rodriguez Cifre</h1>
 <h3 align="center">Frontend Developer y Fotografa</h3>
 
-- 🔭 Actualmente trabajando en mi proyecto **VirtuShop **
+- 🔭 Actualmente trabajando en mi proyecto [Virtushop](https://luchirodriguez98.github.io/VirtuShop/)
 
 - 🌱 Estudiando en **BOOTCAMP FULLSTACK**
 
-- 👨‍💻 Todos mis proyectos están disponibles en [Virtushop](https://luchirodriguez98.github.io/VirtuShop/)
+- 👨‍💻 Todos mis proyectos están disponibles en [Mi Portfolio](https://luchirodriguez98.github.io/Portfolio/)
 
 - 💬 Preguntame sobre **HTML, CSS, JS, React, SQL**
 
