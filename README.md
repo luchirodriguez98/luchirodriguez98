@@ -1,7 +1,3 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
 
 ### <div align="center">Hola 👋, Soy Lucia Rodriguez Cifre 
 👨‍💻 Fotógrafa y Fronted Developer 📸</div>  
