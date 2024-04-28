@@ -3,10 +3,10 @@
 👨‍💻 Fotógrafa y Fronted Developer 📸</div>  
   
 
-- 🔭Actualmente trabajando en mi proyecto [Virtushop](https://virtu--shop.vercel.app/)  
+- 🔭Actualmente me encuentro trabajando en un proyecto personal: CashFlow.
   
 
-- 🌱 Estudiando en BOOTCAMP FULLSTACK  
+- 🌱 Trabajando en panoram4 como Frontend Developer y UX Designer.
   
 
 - ❓ Preguntame sobre mis conocimientos tecnologicos  
